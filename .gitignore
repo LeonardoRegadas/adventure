@@ -1,7 +1,7 @@
 # created by virtualenv automatically
 Lib/
 Scripts/
-
+base_statics/global/image/bootstrap-icons/
 # DJANGO
 *.log
 *.pot
