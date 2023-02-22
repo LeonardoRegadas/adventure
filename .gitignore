@@ -2,6 +2,7 @@
 Lib/
 Scripts/
 base_statics/global/image/bootstrap-icons/
+.env
 # DJANGO
 *.log
 *.pot

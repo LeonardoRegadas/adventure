@@ -4,7 +4,7 @@
 }
 
 header {
-    background: url(../image/slide3.jpg);
+    background: url(../image/pexels-roberto-nickson-2559941.jpg);
     background-size: cover;
     width: 100vw;
     height: 100vh;
@@ -80,6 +80,7 @@ main article p {
     line-height: 28px;}
 
 .address__space {
+    font-weight: bold;
     margin: 30px auto;
 }
 
